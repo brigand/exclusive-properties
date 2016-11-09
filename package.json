@@ -1,0 +1,15 @@
+{
+  "name": "exclusive-properties",
+  "version": "1.0.0",
+  "description": "the properties that are in one of the objects but not the other",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:brigand/exclusive-properties.git",
+    "type": "git"
+  },
+  "author": "Frankie Bagnardi <f.bagnardi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^17.0.0"
+  }
+}
