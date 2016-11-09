@@ -1,6 +1,6 @@
 {
   "name": "exclusive-properties",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "the properties that are in one of the objects but not the other",
   "main": "index.js",
   "repository": {
